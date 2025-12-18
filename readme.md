@@ -109,11 +109,15 @@ Para completar la práctica, intenta realizar una de estas pruebas:
 
 1. El archivo `docker-compose.yml` que has creado.
 2. Una **captura de pantalla** (puedes subirla a la carpeta raiz) donde se vea:
-* El chat web funcionando con una respuesta de la IA.
-* Tu terminal de VS Code con el contenedor corriendo (`docker ps`).
+* El chat web funcionando con una respuesta de la IA.![alt text](image-2.png)
+  
+* Tu terminal de VS Code con el contenedor corriendo (`docker ps`).![alt text](image-1.png)
 
 
-3. Edita este `README.md` (o crea un archivo `RESPUESTAS.md`) contestando brevemente:
+1. Edita este `README.md` (o crea un archivo `RESPUESTAS.md`) contestando brevemente:
 * ¿Qué modelo has usado finalmente?
+  PHI
 * ¿Cuánto ocupa en disco aproximadamente ese modelo? (Búscalo en la web de Ollama).
+  2.2G
 * ¿Crees que esta IA responde más rápido o más lento que ChatGPT? ¿Por qué crees que es?
+  Yo creo que contesta mas lento porque es una version pequeña para que me conteste rapido tiene que ser mas grande 
